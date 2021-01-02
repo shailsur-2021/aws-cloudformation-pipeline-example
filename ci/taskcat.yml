@@ -1,5 +1,5 @@
 global:
-  owner: JasonAGiles
+  owner: Shailaja
   qsname: aws-cloudformation-pipeline-example
   regions:
     - us-east-1
