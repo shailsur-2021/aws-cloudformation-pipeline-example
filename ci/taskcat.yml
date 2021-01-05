@@ -1,5 +1,5 @@
 global:
-  owner: Shailaja
+  owner: Shailaja Suresh
   qsname: aws-cloudformation-pipeline-example
   regions:
     - us-east-1
